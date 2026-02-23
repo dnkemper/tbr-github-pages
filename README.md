@@ -2,7 +2,7 @@
 
 > **884 books** on the to-read shelf, sorted by average Goodreads rating.  
 > Last updated: February 2026  
-> 🔗 **[View Live →](https://YOUR_USERNAME.github.io/tbr/)** *(update after deploy)*
+> 🔗 **[View Live →](https://dnkemper.github.io/tbr-github-pages/)** *(update after deploy)*
 
 ## ⭐ Top 25 Highest Rated
 
