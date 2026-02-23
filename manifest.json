@@ -1,0 +1,9 @@
+{
+  "name": "Dani's TBR",
+  "short_name": "TBR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f0b0e",
+  "theme_color": "#0f0b0e",
+  "description": "884 books ranked by Goodreads rating"
+}
